@@ -1,0 +1,11 @@
+millionsongsubset_full.tar.gz
+.ipynb_checkpoints/
+MillionSongSubset/
+task03_data.npy
+categories.npy
+restaurant_categories.npz
+restaurant_graph.npz
+restaurant_names.npy
+A.npz
+categories.npy
+F.npy
